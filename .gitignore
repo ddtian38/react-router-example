@@ -1,0 +1,4 @@
+node_modules
+_DS.Store
+.env
+client/node_modules
